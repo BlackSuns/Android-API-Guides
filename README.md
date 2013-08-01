@@ -6,7 +6,7 @@ Android应用开发指南
 内容结构
 ========
 
-每篇译文的结构都完全按照[Android官方开发指南][AndroidDeveloper]的结构完成，其中包含三大部分：概述、目录和主体内容。
+每篇译文的结构都完全按照[Android官方开发指南][AndroidDeveloper]的结构完成，其中包含四大部分：概述、目录、主体内容和原文地址。
 
 [AndroidDeveloper]: http://developer.android.com/develop/index.html "Android Developer"
 [Google]: http://www.google.com.hk "Google"
